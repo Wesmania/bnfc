@@ -216,6 +216,7 @@ Test-suite unit-tests
     RecordWildCards
     ScopedTypeVariables
     TupleSections
+  ghc-options:     -W
   Other-modules:
     BNFC.CFSpec
     BNFC.GetCFSpec
